@@ -2,7 +2,7 @@ import React from 'react'
 import Link from 'gatsby-link'
 import Helmet from 'react-helmet'
 import ScrollableAnchor from 'react-scrollable-anchor'
-import meetings from './meetings'
+import meetings from '../api/meetings'
 
 import workshopPhoto from '../assets/images/workshop-photo.jpg'
 import header from '../assets/images/header.jpg'
